@@ -1,0 +1,14 @@
+# Virtual environment & Python cache
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets & OS files
+.env
+Thumbs.db
+.DS_Store
+
+# Demo output folders (keeps scripts & small test PDFs tracked)
+mineru_demo
+smoke_test/images
+smoke_test/predictions
