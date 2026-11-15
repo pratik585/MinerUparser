@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.1.7"
+    },
+    "document": {}
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 516.239990234375,
+          "height_pt": 745.2000122070312
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "image",
+          "index": 0,
+          "bbox": [
+            0.156,
+            0.109,
+            0.494,
+            0.284
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 0,
+              "bbox": [
+                0.156,
+                0.109,
+                0.494,
+                0.284
+              ],
+              "image_path": "images/page_0_image_0.jpg",
+              "content": ""
+            },
+            {
+              "type": "image_caption",
+              "index": 1,
+              "bbox": [
+                0.28,
+                0.289,
+                0.374,
+                0.302
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "(a) 初始状态"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 2,
+          "bbox": [
+            0.505,
+            0.109,
+            0.845,
+            0.284
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 2,
+              "bbox": [
+                0.505,
+                0.109,
+                0.845,
+                0.284
+              ],
+              "image_path": "images/page_0_image_2.jpg",
+              "content": ""
+            },
+            {
+              "type": "image_caption",
+              "index": 3,
+              "bbox": [
+                0.615,
+                0.288,
+                0.709,
+                0.302
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "(b) 最终状态"
+                }
+              ]
+            },
+            {
+              "type": "image_caption",
+              "index": 4,
+              "bbox": [
+                0.402,
+                0.32,
+                0.598,
+                0.336
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "图3 水松生长情况对比"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 5,
+          "bbox": [
+            0.099,
+            0.359,
+            0.424,
+            0.376
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "3.3.2 美人蕉植株高度和开花情况"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.098,
+            0.38,
+            0.902,
+            0.526
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "美人蕉植株高度及开花数见表7。实验发现美人蕉最终高度不施肥组＜施苗木种植基质组＜施花木专用基质组，3组重复平均分别为90.7～119.3cm、118.7～150.3cm、112.7～163cm，可见苗木种植基质与花木专用基质的肥力较为显著，能明显促进美人蕉的生长。但从整体性来说，使用苗木种植基质组的美人蕉长势更为均匀，高度范围相差最小。这可能是由于施用的基质肥力越高，植株间的竞争越强，长势越好的植株越容易吸收土壤中的基质，使其生长更为旺盛，从而拉开植株间的差距。美人蕉开花数比较如图4所示，生长情况对比如图5所示。"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 9,
+          "bbox": [
+            0.102,
+            0.555,
+            0.898,
+            0.794
+          ],
+          "content": [
+            {
+              "type": "table_caption",
+              "index": 7,
+              "bbox": [
+                0.135,
+                0.536,
+                0.175,
+                0.55
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "表7"
+                }
+              ]
+            },
+            {
+              "type": "table_caption",
+              "index": 8,
+              "bbox": [
+                0.4,
+                0.536,
+                0.6,
+                0.551
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "美人蕉植株高度及开花数"
+                }
+              ]
+            },
+            {
+              "type": "table_body",
+              "index": 9,
+              "bbox": [
+                0.102,
+                0.555,
+                0.898,
+                0.794
+              ],
+              "image_path": "images/page_0_table_9.jpg",
+              "content": "<table><tr><td rowspan=\"2\" colspan=\"2\">参数</td><td colspan=\"3\">美人蕉</td></tr><tr><td>不施肥</td><td>施苗木种植基质</td><td>施花木专用基质</td></tr><tr><td rowspan=\"4\">高度/cm</td><td>第一组</td><td>105~126</td><td>120~146</td><td>112~160</td></tr><tr><td>第二组</td><td>62~101</td><td>112~150</td><td>116~167</td></tr><tr><td>第三组</td><td>105~131</td><td>124~155</td><td>110~162</td></tr><tr><td>平均</td><td>90.7~119.3</td><td>118.7~150.3</td><td>112.7~163</td></tr><tr><td rowspan=\"4\">开花数/(朵/株)</td><td>第一组</td><td>19</td><td>20</td><td>23</td></tr><tr><td>第二组</td><td>19</td><td>23</td><td>26</td></tr><tr><td>第三组</td><td>17</td><td>23</td><td>27</td></tr><tr><td>平均</td><td>18</td><td>22</td><td>25</td></tr></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "bbox": [
+            0.098,
+            0.804,
+            0.902,
+            0.887
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "经测量发现美人蕉最终开花数不施肥组＜施苗木种植基质组＜施花木专用基质组，3组重复平均分别为18朵/株、22朵/株、25朵/株，可见苗木种植基质与花木专用基质都能提高美人蕉的开花数，尤其是施用花木专用基质，能使美人蕉充分展示作为园林植物的花卉观赏价值。"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 11,
+          "bbox": [
+            0.838,
+            0.897,
+            0.873,
+            0.911
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "163"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}
